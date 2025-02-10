@@ -4,7 +4,7 @@
 export FOX_BRANCH="fox_9.0"
 export DT_LINK="https://gitlab.com/OrangeFox/device/komodo.git -b fox_9.0"
 
-export DEVICE="komodo"
+export DEVICE="komodo_beta"
 export OEM="google"
 
 # Build Target
